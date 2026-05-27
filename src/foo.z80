@@ -1,4 +1,35 @@
-(-
-    (* (+ 4 7.3) 7)jrl
-    (/ 5 3 6 5))
-)
+
+
+
+
+
+loop:
+    hi 15
+hi_guys:
+    sup
+doing:
+    how 25
+    ya 12
+    _not_good (1), 2, 3, 4
+
+
+    .org 5000
+
+doing: add 45, (1414141)
+
+
+
+    adc A, (HL)
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
+    ; adc
